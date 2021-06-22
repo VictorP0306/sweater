@@ -4,3 +4,7 @@ Spring Boot MVC (Sweater app) - YouTube
 https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=1
 Spring Boot: делаем простое веб приложение на Java (простой сайт) - YouTube
 Add github project https://github.com/VictorP0306/sweater.git
+
+22.06.2021 Lesson-02
+https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=2
+Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт) - YouTube
