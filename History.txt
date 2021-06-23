@@ -8,3 +8,8 @@ Add github project https://github.com/VictorP0306/sweater.git
 22.06.2021 Lesson-02
 https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=2
 Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт) - YouTube
+
+23.06.2021 Lesson-03
+https://www.youtube.com/watch?v=WDlifgLS8iQ&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=3
+Spring Boot Security: добавляем регистрацию и авторизацию пользователей в приложение (простой сайт)
+
