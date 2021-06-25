@@ -13,3 +13,7 @@ Spring Boot JPA (Hibernate): добавляем базу данных в веб 
 https://www.youtube.com/watch?v=WDlifgLS8iQ&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=3
 Spring Boot Security: добавляем регистрацию и авторизацию пользователей в приложение (простой сайт)
 
+25.06.2021 Lesson-04
+https://www.youtube.com/watch?v=PpoOoR55Ypw&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=4
+Spring Boot Jpa (Hibernate): добавляем связи между таблицами базы данных (one to many) - YouTube# letsCode, 7:35
+
