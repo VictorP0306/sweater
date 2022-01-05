@@ -4,3 +4,7 @@ Spring Boot MVC (Sweater app) - YouTube#  letsCode, 21 видео
 
 https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=2&t=1s
 Spring Boot: делаем простое веб приложение на Java (простой сайт) - YouTube#  letsCode, Урок-1, 12:46
+
+05.01.2022
+https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=3&t=1s
+Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт) - YouTube# letsCode, Урок-2, 15:58
