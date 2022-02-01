@@ -29,6 +29,17 @@
             <optional>true</optional>
         </dependency>
 
+<!--        security-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
         <!-- DataBase support -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -57,4 +68,5 @@
     <!--     MyTokenGitHub -->
     <!--     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 -->
     <!--     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 -->
+    <!--    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-->
 </project>

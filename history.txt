@@ -8,3 +8,11 @@ Spring Boot: делаем простое веб приложение на Java (
 05.01.2022
 https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=3&t=1s
 Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт) - YouTube# letsCode, Урок-2, 15:58
+
+25.01.2022
+https://www.youtube.com/watch?v=WDlifgLS8iQ&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=3
+Spring Boot Security: добавляем регистрацию и авторизацию пользователей в приложение (простой сайт) - YouTube# letsCode, Урок-3, 18:38
+
+01.02.2022
+https://www.youtube.com/watch?v=PpoOoR55Ypw&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=4
+Spring Boot Jpa (Hibernate): добавляем связи между таблицами базы данных (one to many) - YouTube#  letsCode, Урок-4, 7:35
