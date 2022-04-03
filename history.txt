@@ -16,3 +16,7 @@ Spring Boot Security: добавляем регистрацию и автори�
 01.02.2022
 https://www.youtube.com/watch?v=PpoOoR55Ypw&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=4
 Spring Boot Jpa (Hibernate): добавляем связи между таблицами базы данных (one to many) - YouTube#  letsCode, Урок-4, 7:35
+
+02.02.2022
+https://www.youtube.com/watch?v=8MlXahJXLFg&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=5
+Spring Boot Freemarker: подключаем шаблонизатор Freemarker - YouTube# letsCode, Урок-5, 10:32
