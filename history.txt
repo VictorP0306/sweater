@@ -20,3 +20,7 @@ Spring Boot Jpa (Hibernate): добавляем связи между табли
 02.02.2022
 https://www.youtube.com/watch?v=8MlXahJXLFg&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=5
 Spring Boot Freemarker: подключаем шаблонизатор Freemarker - YouTube# letsCode, Урок-5, 10:32
+
+04.04.2022
+https://www.youtube.com/watch?v=6dteOGWy4uk&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=6
+Spring Boot Security: добавляем панель администратора и роли пользователей, ограничиваем доступ - YouTube# letsCode, Урок-6, 12:58
