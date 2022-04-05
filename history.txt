@@ -24,3 +24,7 @@ Spring Boot Freemarker: подключаем шаблонизатор Freemarker
 04.04.2022
 https://www.youtube.com/watch?v=6dteOGWy4uk&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=6
 Spring Boot Security: добавляем панель администратора и роли пользователей, ограничиваем доступ - YouTube# letsCode, Урок-6, 12:58
+
+05.04.2022
+https://www.youtube.com/watch?v=bmMWrTMB5uo&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=7
+Spring Boot MVC: загрузка файлов на сервер и раздача статики - YouTube# letsCode, Урок-7, 10:02
