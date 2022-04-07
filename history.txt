@@ -32,3 +32,6 @@ Spring Boot MVC: загрузка файлов на сервер и раздач
 07.04.2022
 https://www.youtube.com/watch?v=a51jGwoTNmI&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=8
 Spring Boot: оформляем UI с Bootstrap - YouTube# letsCode, Урок-8, 17:51
+
+https://www.youtube.com/watch?v=yBXs_gtSmUc&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=9
+Spring Boot Mail: рассылка почты пользователям, активация аккаунта - YouTube# letsCode, Урок-9, 12:53
