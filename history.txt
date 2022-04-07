@@ -28,3 +28,7 @@ Spring Boot Security: добавляем панель администратор
 05.04.2022
 https://www.youtube.com/watch?v=bmMWrTMB5uo&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=7
 Spring Boot MVC: загрузка файлов на сервер и раздача статики - YouTube# letsCode, Урок-7, 10:02
+
+07.04.2022
+https://www.youtube.com/watch?v=a51jGwoTNmI&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=8
+Spring Boot: оформляем UI с Bootstrap - YouTube# letsCode, Урок-8, 17:51
