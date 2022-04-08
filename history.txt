@@ -35,3 +35,7 @@ Spring Boot: оформляем UI с Bootstrap - YouTube# letsCode, Урок-8,
 
 https://www.youtube.com/watch?v=yBXs_gtSmUc&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=9
 Spring Boot Mail: рассылка почты пользователям, активация аккаунта - YouTube# letsCode, Урок-9, 12:53
+
+08.04.2022
+https://www.youtube.com/watch?v=ArM7nCys4hY&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&index=10
+Spring Boot FlyWay: миграции БД, профиль пользователя - YouTube# letsCode, Урок-10, 13:05

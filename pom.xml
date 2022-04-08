@@ -29,17 +29,6 @@
             <optional>true</optional>
         </dependency>
 
-<!--        security-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.security</groupId>
-            <artifactId>spring-security-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-
         <!-- DataBase support -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -49,6 +38,16 @@
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-core</artifactId>
+        </dependency>
+
+        <!-- security -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
         <dependency>
@@ -70,8 +69,4 @@
             </plugin>
         </plugins>
     </build>
-    <!--     MyTokenGitHub -->
-    <!--     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 -->
-    <!--     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 -->
-    <!--    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-->
 </project>
